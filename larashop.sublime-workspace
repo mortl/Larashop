@@ -1,0 +1,497 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htm",
+				"html	html"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"getEl",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"mont",
+				"monthlyRate"
+			],
+			[
+				"ht",
+				"html	html"
+			],
+			[
+				"boos",
+				"bootstrapcdn"
+			],
+			[
+				"boots",
+				"bootstrap	(index.html)"
+			],
+			[
+				"chan",
+				"changeBarBtn	(index.html)"
+			],
+			[
+				"getE",
+				"getElementById(${0:id})	Element"
+			],
+			[
+				"inn",
+				"innerHTML	Element"
+			],
+			[
+				"Num",
+				"Number.MIN_VALUE	Number"
+			],
+			[
+				"le",
+				"length	Array"
+			],
+			[
+				"di",
+				"directoryController	(directory.js)"
+			],
+			[
+				"control",
+				"controller	AngularJS"
+			],
+			[
+				"an",
+				"angular	AngularJS"
+			],
+			[
+				"respo",
+				"responseMessage"
+			],
+			[
+				"resp",
+				"responseMessage	(contact.hbs)"
+			],
+			[
+				"is",
+				"isMessageLongEnough	(contact.js)"
+			],
+			[
+				"emai",
+				"email"
+			],
+			[
+				"email",
+				"emailAddress"
+			],
+			[
+				"ema",
+				"emailAddress"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "larashop/app/Http/Controllers/PagesController.php",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "master.blade.php",
+			"settings":
+			{
+				"buffer_size": 176,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Snippet: Prototype JS"
+			],
+			[
+				"la",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"bootst",
+				"Snippet: Bootstrap JS"
+			],
+			[
+				"jq",
+				"Snippet: Jquery Mobile"
+			],
+			[
+				"boot",
+				"Snippet: Bootstrap CSS"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Emmet: Increment Number by 0.1"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/martin/workspace/Larashop",
+		"/home/martin/workspace/Larashop/larashop",
+		"/home/martin/workspace/Larashop/larashop/resources",
+		"/home/martin/workspace/Larashop/larashop/resources/views"
+	],
+	"file_history":
+	[
+		"/home/martin/workspace/Larashop/larashop/resources/views/pages/about.blade.php",
+		"/home/martin/workspace/Larashop/larashop/app/Http/routes.php",
+		"/home/martin/workspace/Larashop/larashop/app/Http/Controllers/Hello.php",
+		"/home/martin/workspace/Larashop/larashop/app/Http/Controllers/FrontController.php",
+		"/home/martin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/martin/workspace/Larashop/larashop/resources/views/hello.blade.php",
+		"/home/martin/workspace/Larashop/larashop/resources/views/welcome.blade.php",
+		"/home/martin/workspace/Larashop/larashop/config/database.php",
+		"/home/martin/Documents/LaravelTutorial/config/database.php",
+		"/home/martin/workspace/Larashop/larashop/config/app.php",
+		"/home/martin/Documents/test.js",
+		"/home/martin/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/martin/workspace/javascriptTests/javascript6/es6-tutorial/index.html",
+		"/home/martin/workspace/javascriptTests/javascript6/es6-tutorial/package.json",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/index.html",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/test.html",
+		"/home/martin/workspace/javascriptTests/nodeJs/server.js",
+		"/home/martin/workspace/javascriptTests/javascript6/index.html",
+		"/home/martin/workspace/javascriptTests/javascript6/script-compiled.js",
+		"/home/martin/workspace/javascriptTests/javascript6/script.js",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/main.css",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/application.js",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/server.js",
+		"/home/martin/workspace/javascriptTests/derekBanasTuts/jquery.js",
+		"/home/martin/workspace/javascriptTests/main.css",
+		"/home/martin/workspace/javascriptTests/application.js",
+		"/home/martin/workspace/javascriptTests/stylesheet.css",
+		"/home/martin/workspace/javascriptTests/test.html",
+		"/home/martin/workspace/javascriptTests/index.html",
+		"/home/martin/workspace/angularjsProjects/startbootstrap-modern-business-1.0.5/index.html",
+		"/home/martin/workspace/library-app/app/components/nav-link-to.js",
+		"/home/martin/workspace/library-app/app/routes/libraries/edit.js",
+		"/home/martin/workspace/library-app/app/routes/libraries/new.js",
+		"/home/martin/workspace/library-app/app/templates/navbar.hbs",
+		"/home/martin/workspace/library-app/app/styles/app.scss",
+		"/home/martin/workspace/library-app/app/styles/spinner.scss",
+		"/home/martin/workspace/library-app/app/templates/contact.hbs",
+		"/home/martin/workspace/library-app/app/templates/components/nav-link-to.hbs",
+		"/home/martin/workspace/library-app/app/templates/libraries/new.hbs",
+		"/home/martin/workspace/library-app/app/templates/libraries/index.hbs",
+		"/home/martin/workspace/library-app/app/templates/libraries/form.hbs",
+		"/home/martin/workspace/library-app/app/components/library-item-form.js",
+		"/home/martin/workspace/library-app/app/templates/libraries/edit.hbs",
+		"/home/martin/workspace/library-app/app/templates/components/library-item-form.hbs",
+		"/home/martin/workspace/library-app/app/templates/admin/contacts.hbs",
+		"/home/martin/workspace/library-app/package.json",
+		"/home/martin/workspace/library-app/bower.json",
+		"/home/martin/workspace/library-app/app/templates/components/library-item.hbs",
+		"/home/martin/workspace/library-app/app/models/library.js",
+		"/home/martin/workspace/library-app/app/templates/admin/invitations.hbs",
+		"/home/martin/workspace/library-app/app/models/contact.js",
+		"/home/martin/workspace/library-app/app/routes/contact.js",
+		"/home/martin/workspace/library-app/app/controllers/contact.js",
+		"/home/martin/workspace/library-app/app/routes/admin/contacts.js",
+		"/home/martin/workspace/library-app/app/controllers/index.js",
+		"/home/martin/workspace/library-app/app/routes/libraries/index.js",
+		"/home/martin/workspace/library-app/app/router.js",
+		"/home/martin/workspace/library-app/firebase.json",
+		"/home/martin/workspace/library-app/app/routes/firebase.json",
+		"/home/martin/workspace/library-app/app/templates/libraries.hbs",
+		"/home/martin/workspace/library-app/app/routes/admin/invitations.js",
+		"/home/martin/workspace/library-app/config/environment.js",
+		"/home/martin/workspace/library-app/app/templates/index.hbs",
+		"/home/martin/workspace/library-app/app/templates/application.hbs",
+		"/home/martin/workspace/library-app/app/templates/about.hbs",
+		"/home/martin/workspace/library-app/app/app.js",
+		"/home/martin/workspace/MathSite/index.css",
+		"/home/martin/workspace/MathSite/index.html",
+		"/home/martin/workspace/rubyApp/blog/Gemfile",
+		"/home/martin/workspace/rubyApp/blog/app/controllers/welcome_controller.rb",
+		"/home/martin/workspace/rubyApp/blog/app/views/welcome/index.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/views/layouts/application.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/assets/stylesheets/welcome.scss",
+		"/home/martin/workspace/rubyApp/blog/app/controllers/posts_controller.rb",
+		"/home/martin/workspace/rubyApp/blog/app/assets/stylesheets/application.css.scss",
+		"/home/martin/workspace/rubyApp/blog/app/assets/stylesheets/_welcome.css.scss",
+		"/home/martin/workspace/rubyApp/blog/app/assets/stylesheets/_posts_projects.css.scss",
+		"/home/martin/workspace/rubyApp/blog/app/assets/stylesheets/_normalize.css.scss",
+		"/home/martin/workspace/rubyApp/blog/app/views/posts/show.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/views/posts/_form.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/views/posts/new.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/views/posts/index.html.erb",
+		"/home/martin/workspace/rubyApp/blog/app/views/posts/edit.html.erb",
+		"/home/martin/workspace/rubyApp/blog/config/routes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Front",
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"FrontController",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "larashop/app/Http/Controllers/PagesController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								136,
+								136
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 23.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "larashop.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pagesc",
+				"larashop/app/Http/Controllers/PagesController.php"
+			],
+			[
+				"gem",
+				"blog/Gemfile"
+			],
+			[
+				"app",
+				"blog/app/helpers/application_helper.rb"
+			],
+			[
+				"gemf",
+				"blog/Gemfile"
+			],
+			[
+				"welcome_c",
+				"blog/app/controllers/welcome_controller.rb"
+			],
+			[
+				"welcome_",
+				"app/controllers/welcome_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"post_c",
+				"app/controllers/posts_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
